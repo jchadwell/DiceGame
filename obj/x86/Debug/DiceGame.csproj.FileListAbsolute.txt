@@ -1,0 +1,7 @@
+c:\users\jason\documents\visual studio 2010\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.exe
+c:\users\jason\documents\visual studio 2010\Projects\DiceGame\DiceGame\bin\Debug\DiceGame.pdb
+c:\users\jason\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Form1.resources
+c:\users\jason\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\DiceGame.Properties.Resources.resources
+c:\users\jason\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\DiceGame.csproj.GenerateResource.Cache
+c:\users\jason\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\DiceGame.exe
+c:\users\jason\documents\visual studio 2010\Projects\DiceGame\DiceGame\obj\x86\Debug\DiceGame.pdb
